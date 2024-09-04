@@ -1,0 +1,29 @@
+<html lang="pt-br">
+
+<head>
+
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>Resenhafilm</title>
+
+</head>
+
+
+<body>
+    <header>RESENHAFILM</header>
+    <section>
+        <div>
+            <h1>"Alien: Romulus": acertaram! E só demorou 45 anos</h1>
+            <p>#Alien:Romulous</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/IUn-B6TGRbw?si=bvidDF0-9MjoJ4c8"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+</body>
+
+</html>
